@@ -5,9 +5,9 @@
 .container {
     margin: auto;
     display: flex;
-    justify-content: space-around;
     flex-wrap: wrap;
     background-color: rgb(211, 211, 211);
     width: 960px;
     height: 960px;
 }
+
